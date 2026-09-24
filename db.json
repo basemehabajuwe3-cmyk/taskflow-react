@@ -1,0 +1,206 @@
+{
+  "utilisateurs": [
+    {
+      "id": "1",
+      "nom": "BASEME Habajuwe",
+      "prenom": "Sammy",
+      "email": "basemehabajuwe3@gmail.com",
+      "motDePasse": "SammyB@123"
+    },
+    {
+      "nom": "BASEME HABAJUWE SAMUEL",
+      "email": "basemehabajuwe3@gmail.com",
+      "motDePasse": "BasemeH@1",
+      "id": "fcfV28Vdetg"
+    }
+  ],
+  "projets": [
+    {
+      "id": "1",
+      "utilisateurid": 1,
+      "nom": "mon-tp-react",
+      "description": "Creation d'un gestionnaire de Taches.",
+      "color": "#FF5733",
+      "creer": "09/Sept/2026",
+      "nbTaches": 1
+    },
+    {
+      "id": "2",
+      "utilisateurid": 1,
+      "nom": "Creation d'un site vitrine Atelier du Kivu",
+      "description": "Digitalisation de votre restaurant de lixe.",
+      "color": "#33FF57",
+      "creer": "15/Sept/2026",
+      "nbTaches": 1
+    },
+    {
+      "id": "3",
+      "utilisateurid": 1,
+      "nom": "Quiz Application",
+      "description": " Creation d'un quiz interactif.",
+      "color": "#3357FF",
+      "creer": "20/Sept/2026",
+      "nbTaches": 1
+    },
+    {
+      "nom": "Mon Super Projet",
+      "description": "Ceci est la description de test.",
+      "nbTaches": 0,
+      "id": "vGX3h9gtJH0"
+    },
+    {
+      "nom": "Monitoring du projet ssd",
+      "description": "Cette application contrubuera à faire la monitoring des activités au terrain du projet ssd",
+      "nbTaches": 1,
+      "id": "9UL2Fnx8Ra8"
+    },
+    {
+      "nom": "Formulaire d'Inscription",
+      "description": "Espasse d'incription des candidats",
+      "nbTaches": 1,
+      "id": "awJRD9aZ2dI"
+    }
+  ],
+  "taches": [
+    {
+      "id": "1",
+      "projetId": "1",
+      "titre": "Installation de React",
+      "description": "Installer React et configurer l'environnement de développement.",
+      "terminee": false,
+      "priorite": "haute",
+      "dateEcheance": "15/Sept/2026"
+    },
+    {
+      "id": "2",
+      "projetId": "2",
+      "titre": "Conception du design",
+      "description": "Créer le design du site vitrine.",
+      "terminee": false,
+      "priorite": "basse",
+      "dateEcheance": "25/Sept/2026"
+    },
+    {
+      "id": "3",
+      "projetId": "3",
+      "titre": "Création des composants",
+      "description": "Créer les composants nécessaires pour l'application.",
+      "terminee": true,
+      "priorite": "moyenne",
+      "dateEcheance": "20/Sept/2026"
+    },
+    {
+      "titre": "skjskslskjslsj",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "2",
+      "id": "9Q3XYSrueps"
+    },
+    {
+      "titre": "eyezjskjsdz",
+      "priorite": "basse",
+      "terminee": false,
+      "projetId": "awJRD9aZ2dI",
+      "id": "fdddi4NXotM"
+    },
+    {
+      "titre": "communication avac le beneficiaire",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "3",
+      "id": "aJ5R2udh_PI"
+    },
+    {
+      "titre": "Avaluation de mission ",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "3",
+      "id": "dsVJ3QyaB9k"
+    },
+    {
+      "titre": "strdfyt",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "2",
+      "id": "SHmchqG1iGs"
+    },
+    {
+      "titre": "shsjkskjslkjsq",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "1",
+      "id": "7VfrDmQEsLQ"
+    },
+    {
+      "titre": "shjssjskjq",
+      "priorite": "moyenne",
+      "terminee": false,
+      "projetId": "3",
+      "id": "eiHdQtUa9vY"
+    },
+    {
+      "titre": "qlslqlqlql",
+      "priorite": "basse",
+      "terminee": false,
+      "projetId": "1",
+      "id": "BS1Zp6GWiAI"
+    },
+    {
+      "titre": "AKZLKZLKZLK",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "1",
+      "id": "O1yBXn16yBY"
+    },
+    {
+      "titre": "modification de donnés",
+      "priorite": "haute",
+      "terminee": false,
+      "projetId": "1",
+      "id": "M_iWNhi2Dtg"
+    },
+    {
+      "titre": "eyezjskjsdz",
+      "priorite": "basse",
+      "terminee": false,
+      "projetId": "1",
+      "id": "EeG-U6eMkwc"
+    },
+    {
+      "titre": "evalution annuelle",
+      "priorite": "haute",
+      "terminee": true,
+      "projetId": "1",
+      "id": "esMmAhf1uDA"
+    },
+    {
+      "titre": "modification de donnés",
+      "priorite": "haute",
+      "terminee": true,
+      "projetId": "1",
+      "id": "XyRAjiHrroI"
+    },
+    {
+      "titre": "partage des outit agricole",
+      "priorite": "haute",
+      "terminee": true,
+      "projetId": "1",
+      "id": "IuvAA7XlehY"
+    },
+    {
+      "titre": "compulation de données",
+      "priorite": "haute",
+      "terminee": true,
+      "projetId": "9UL2Fnx8Ra8",
+      "id": "AdJfYaMrfw8"
+    },
+    {
+      "titre": "elaboration du plan dactivite",
+      "priorite": "moyenne",
+      "terminee": false,
+      "projetId": "2",
+      "id": "ke4niX61tkc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
